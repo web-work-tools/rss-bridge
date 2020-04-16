@@ -13,6 +13,6 @@ Scmb
 Twitter
 Wikipedia
 Youtube
-GithubIssues
+GithubIssue
 GithubSearch
 GithubTrending
